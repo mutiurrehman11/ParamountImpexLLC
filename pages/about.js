@@ -1,5 +1,5 @@
 import React from "react";
-import Submenu from "@/components/submenu";
+import Submenu from "@/components/Submenu";
 
 const about = () => {
     return (
