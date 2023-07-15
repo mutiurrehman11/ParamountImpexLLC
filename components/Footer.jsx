@@ -39,7 +39,7 @@ const Footer = () => {
                     </div> */}
                 </div>
                 <div className="sm:ml-0 ml-8">
-                    <h2 className="text-base font-semibold leading-4 text-gray-800">Company</h2>
+                    <h2 className="text-base font-semibold leading-4 text-blue-800">Company</h2>
                     <br></br>
                     <Link href="/" className="hover:text-gray-500 text-base leading-4 mt-6 text-white-800 cursor-pointer">
                     <p >Home</p>
@@ -54,7 +54,7 @@ const Footer = () => {
                     </Link>
                 </div>
                 <div className="sm:ml-0 ml-8">
-                    <h2 className="text-base font-semibold leading-4 text-gray-800">Get In Touch</h2>
+                    <h2 className="text-base font-semibold leading-4 text-blue-800">Get In Touch</h2>
                     <p className="text-sm leading-none text-white-800 mt-4">924 N MAGNOLIA AVE SUITE 202 UNIT #5379 ORLANDO, FL 32803</p>
                     <p className="text-sm leading-none text-white-800 mt-4">+1 (786) 936-4490</p>
                     <p className="text-sm leading-none text-white-800 mt-4">sales@paramountimpexllc.com</p>
