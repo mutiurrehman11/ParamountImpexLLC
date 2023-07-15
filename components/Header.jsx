@@ -58,7 +58,7 @@ const Header = () => {
             <Wrapper className="h-[60px] flex justify-between items-center">
                 <Link href="/">
                     {/* <span className="font-bold text-base font-sans hover:italic">Paramount Impex LLC</span> */}
-                    <img src="/logo.png" className="w-[205px] md:w-[370px]" />
+                    <img src="/logo.png" className="w-[205px] md:w-[270px]" />
                 </Link>
 
                 <Menu 
