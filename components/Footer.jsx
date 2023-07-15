@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 md:gap-8 gap-4">
                 <div className="flex flex-col flex-shrink-0">
                     <div>
-                    <img src="/logo.png" className="w-[65px] md:w-[170px]" />
+                    <img src="/logo.png" className="w-[105px] md:w-[170px]" />
                     </div>
                     <p className="text-sm leading-none text-white-800 mt-4">Copyright © 2023 Pramount Impex LLC</p>
                     <p className="text-sm leading-none text-white-800 mt-4">All rights reserved</p>
