@@ -36,15 +36,15 @@ function Cont() {
 		<form novalidate="" className="flex flex-col py-6 space-y-6 md:py-0 md:px-6">
 			<label className="block">
 				<span className="mb-1">Full name</span>
-				<input type="text" className="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri dark:bg-white-800" />
+				<input type="text" className="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri bg-black-800 text-black" />
 			</label>
 			<label className="block">
 				<span className="mb-1">Email address</span>
-				<input type="email" className="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri dark:bg-white-800" />
+				<input type="email" className="block w-full rounded-md shadow-sm focus:ring focus:ri focus:ri bg-black-800 text-black" />
 			</label>
 			<label className="block">
 				<span className="mb-1">Message</span>
-				<textarea rows="3" className="block w-full rounded-md focus:ring focus:ri focus:ri dark:bg-white-800"></textarea>
+				<textarea rows="3" className="block w-full rounded-md focus:ring focus:ri focus:ri bg-black-800 text-black"></textarea>
 			</label>
 			<button type="button" className="self-center px-8 py-3 text-lg rounded focus:ring hover:ring focus:ri dark:bg-violet-400 dark:text-gray-900 focus:ri hover:ri">Submit</button>
 		</form>
