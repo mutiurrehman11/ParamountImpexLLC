@@ -40,7 +40,7 @@ const ProductCard = ({ data: { attributes: p, id } }) => {
                     )}
             </div>
         </div>
-
+{/*  */}
     </Link>
   );
 };
