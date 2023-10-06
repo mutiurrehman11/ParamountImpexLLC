@@ -8,7 +8,7 @@ import CTA from "@/components/CTA";
 
 
 export default function Home({ products }) {
-
+// 
     return <main>
         <HeroBanner />
         <Wrapper>
